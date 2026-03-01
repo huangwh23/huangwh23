@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kyrie-666
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning accelerator
+- 👋 Hi, I’m hwh
+- 👀 I’m interested in accelerator physics
+- 🌱 I’m currently doing my PhD
 
 <!---
 Kyrie-666/Kyrie-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
